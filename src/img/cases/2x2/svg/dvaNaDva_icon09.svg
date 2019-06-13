@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.23 92.36">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none;}.cls-1{stroke:#1547fe;stroke-miterlimit:10;stroke-width:2px;}.cls-2{fill:#1547fe;}.cls-3{fill:#bed8fd;}
+        </style>
+    </defs>
+    <title>8</title>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="Слой_1-2" data-name="Слой 1">
+            <g id="Слой_2-2" data-name="Слой 2">
+                <g id="Слой_1-2-2" data-name="Слой 1-2">
+                    <path class="cls-1" d="M66.24,13.44"/>
+                    <polygon class="cls-2"
+                             points="66.22 14.44 52.66 14.36 52.66 1 54.66 1 54.66 12.38 66.24 12.44 66.22 14.44"/>
+                    <circle class="cls-3" cx="48.09" cy="69.92" r="8.12"/>
+                    <path class="cls-2"
+                          d="M48.09,79a9.12,9.12,0,1,1,9.12-9.12A9.13,9.13,0,0,1,48.09,79Zm0-16.24a7.12,7.12,0,1,0,7.12,7.12A7.13,7.13,0,0,0,48.09,62.8Z"/>
+                    <path class="cls-2" d="M67.23,92.36H0V0H54.08L67.23,13ZM2,90.36H65.23V13.86L53.26,2H2Z"/>
+                    <path class="cls-2" d="M44.86,30H22a1,1,0,0,1,0-2H44.86a1,1,0,0,1,0,2Z"/>
+                    <line class="cls-4" x1="11.03" y1="51.12" x2="56.21" y2="51.12"/>
+                    <path class="cls-2" d="M56.21,52.12H11a1,1,0,0,1,0-2H56.21a1,1,0,0,1,0,2Z"/>
+                    <line class="cls-4" x1="11.03" y1="43.82" x2="56.21" y2="43.82"/>
+                    <path class="cls-2" d="M56.21,44.82H11a1,1,0,0,1,0-2H56.21a1,1,0,0,1,0,2Z"/>
+                    <line class="cls-4" x1="11.03" y1="36.52" x2="56.21" y2="36.52"/>
+                    <path class="cls-2" d="M56.21,37.52H11a1,1,0,0,1,0-2H56.21a1,1,0,0,1,0,2Z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

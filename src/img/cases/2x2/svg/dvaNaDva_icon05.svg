@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.33 79.33">
+    <defs>
+        <style>.cls-1{fill:#bed8fd;}.cls-2{fill:#1547fe;}.cls-3{fill:#fff;}</style>
+    </defs>
+    <title>5</title>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="Слой_1-2" data-name="Слой 1">
+            <g id="Слой_2-2" data-name="Слой 2">
+                <g id="Слой_1-2-2" data-name="Слой 1-2">
+                    <rect class="cls-1" x="1" y="1" width="77.33" height="77.33"/>
+                    <path class="cls-2" d="M79.33,79.33H0V0H79.33ZM2,77.33H77.33V2H2Z"/>
+                    <circle class="cls-3" cx="39.67" cy="39.67" r="29.55"/>
+                    <path class="cls-2"
+                          d="M39.67,70.22A30.55,30.55,0,1,1,70.22,39.67,30.58,30.58,0,0,1,39.67,70.22Zm0-59.1A28.55,28.55,0,1,0,68.22,39.67,28.58,28.58,0,0,0,39.67,11.12Z"/>
+                    <path class="cls-2"
+                          d="M39.67,44A4.37,4.37,0,1,1,44,39.67,4.37,4.37,0,0,1,39.67,44Zm0-7a2.67,2.67,0,1,0,2.67,2.67A2.67,2.67,0,0,0,39.67,37Z"/>
+                    <path class="cls-2" d="M39.67,33.09a1,1,0,0,1-1-1V25.27a1,1,0,0,1,2,0v6.82A1,1,0,0,1,39.67,33.09Z"/>
+                    <path class="cls-2"
+                          d="M46.51,37.4a1,1,0,0,1-.43-1.9l11.64-5.55a1,1,0,0,1,.86,1.81L46.94,37.3A1,1,0,0,1,46.51,37.4Z"/>
+                    <circle class="cls-2" cx="39.67" cy="16.59" r="1.49"/>
+                    <circle class="cls-2" cx="23.35" cy="23.35" r="1.49"
+                            transform="translate(-9.67 23.35) rotate(-45)"/>
+                    <circle class="cls-2" cx="16.59" cy="39.67" r="1.49"/>
+                    <circle class="cls-2" cx="23.35" cy="55.99" r="1.49"
+                            transform="translate(-32.75 32.91) rotate(-45)"/>
+                    <circle class="cls-2" cx="39.67" cy="62.75" r="1.49"/>
+                    <circle class="cls-2" cx="55.99" cy="55.99" r="1.49"
+                            transform="translate(-23.19 55.99) rotate(-45)"/>
+                    <circle class="cls-2" cx="62.75" cy="39.67" r="1.49"/>
+                    <circle class="cls-2" cx="55.99" cy="23.35" r="1.49"
+                            transform="translate(-0.11 46.43) rotate(-45)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

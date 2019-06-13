@@ -1,0 +1,332 @@
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    src: local('Proxima Nova Regular'),
+    url('../../fonts/Proxima Nova Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Black';
+    src: local('Proxima Nova Black'),
+    url('../../fonts/Proxima Nova Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Semibold';
+    src: local('Proxima Nova Semibold'),
+    url('../../fonts/Proxima Nova Semibold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "AkzidenzGrotesk Pro Bold";
+    src: url("../../fonts/AkzidenzGroteskProBold.eot");
+    src: url("../../fonts/AkzidenzGroteskProBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/AkzidenzGroteskProBold.woff") format("woff"),
+         url("../../fonts/AkzidenzGroteskProBold.ttf") format("truetype"),
+         url("../../fonts/AkzidenzGroteskProBold.svg#AkzidenzGroteskProBold") format("svg");
+}
+
+@font-face {
+    font-family: "AkzidenzGrotesk Pro Bold Cn";
+    src: url("../../fonts/AkzidenzGroteskProBoldCn.eot");
+    src: url("../../fonts/AkzidenzGroteskProBoldCn.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/AkzidenzGroteskProBoldCn.woff") format("woff"),
+         url("../../fonts/AkzidenzGroteskProBoldCn.ttf") format("truetype"),
+         url("../../fonts/AkzidenzGroteskProBoldCn.svg#AkzidenzGroteskProBoldCn") format("svg");
+}
+
+@font-face {
+    font-family: "AkzidenzGrotesk Pro Regular";
+    src: url("../../fonts/AkzidenzGroteskProRegular.eot");
+    src: url("../../fonts/AkzidenzGroteskProRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/AkzidenzGroteskProRegular.woff") format("woff"),
+         url("../../fonts/AkzidenzGroteskProRegular.ttf") format("truetype"),
+         url("../../fonts/AkzidenzGroteskProRegular.svg#AkzidenzGroteskProRegular") format("svg");
+}
+
+@font-face {
+    font-family: "Arimo Bold";
+    src: url("../../fonts/ArimoBold.eot");
+    src: url("../../fonts/ArimoBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/ArimoBold.woff") format("woff"),
+         url("../../fonts/ArimoBold.ttf") format("truetype"),
+         url("../../fonts/ArimoBold.svg#arimobold") format("svg");
+}
+
+@font-face {
+    font-family: "Arimo Regular";
+    src: url("../../fonts/ArimoRegular.eot");
+    src: url("../../fonts/ArimoRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/ArimoRegular.woff") format("woff"),
+         url("../../fonts/ArimoRegular.ttf") format("truetype"),
+         url("../../fonts/ArimoRegular.svg#arimoregular") format("svg");
+}
+
+@font-face {
+    font-family: "Bitter Italic";
+    src: url("../../fonts/BitterItalic.eot");
+    src: url("../../fonts/BitterItalic.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/BitterItalic.woff") format("woff"),
+         url("../../fonts/BitterItalic.ttf") format("truetype"),
+         url("../../fonts/BitterItalic.svg#bitteritalic") format("svg");
+}
+
+@font-face {
+    font-family: "Bitter Regular";
+    src: url("../../fonts/BitterRegular.eot");
+    src: url("../../fonts/BitterRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/BitterRegular.woff") format("woff"),
+         url("../../fonts/BitterRegular.ttf") format("truetype"),
+         url("../../fonts/BitterRegular.svg#bitterregular") format("svg");
+}
+
+@font-face {
+    font-family: "Brandon Grotesque Medium";
+    src: url("../../fonts/BrandonGrotesqueMedium.eot");
+    src: url("../../fonts/BrandonGrotesqueMedium.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/BrandonGrotesqueMedium.woff") format("woff"),
+         url("../../fonts/BrandonGrotesqueMedium.ttf") format("truetype"),
+         url("../../fonts/BrandonGrotesqueMedium.svg#brandongrotesquemedium") format("svg");
+}
+
+@font-face {
+    font-family: "Futura New Bold";
+    src: url("../../fonts/FuturaNewBoldRegular.eot");
+    src: url("../../fonts/FuturaNewBoldRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/FuturaNewBoldRegular.woff") format("woff"),
+         url("../../fonts/FuturaNewBoldRegular.ttf") format("truetype"),
+         url("../../fonts/FuturaNewBoldRegular.svg#futuranewboldregular") format("svg");
+}
+
+@font-face {
+    font-family: "Futura New Book";
+    src: url("../../fonts/FuturaNewBookRegular.eot");
+    src: url("../../fonts/FuturaNewBookRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/FuturaNewBookRegular.woff") format("woff"),
+         url("../../fonts/FuturaNewBookRegular.ttf") format("truetype"),
+         url("../../fonts/FuturaNewBookRegular.svg#futuranewbookregular") format("svg");
+}
+
+@font-face {
+    font-family: "Futura New Heavy";
+    src: url("../../fonts/FuturaNewHeavyRegular.eot");
+    src: url("../../fonts/FuturaNewHeavyRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/FuturaNewHeavyRegular.woff") format("woff"),
+         url("../../fonts/FuturaNewHeavyRegular.ttf") format("truetype"),
+         url("../../fonts/FuturaNewHeavyRegular.svg#futuranewheavyregular") format("svg");
+}
+
+@font-face {
+    font-family: "Futura New Medium";
+    src: url("../../fonts/FuturaNewMedium.eot");
+    src: url("../../fonts/FuturaNewMedium.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/FuturaNewMedium.woff") format("woff"),
+         url("../../fonts/FuturaNewMedium.ttf") format("truetype"),
+         url("../../fonts/FuturaNewMedium.svg#futuranewmedium") format("svg");
+}
+
+@font-face {
+    font-family: "Gotham Pro Medium";
+    src: url("../../fonts/GothamProMedium.eot");
+    src: url("../../fonts/GothamProMedium.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/GothamProMedium.woff") format("woff"),
+         url("../../fonts/GothamProMedium.ttf") format("truetype"),
+         url("../../fonts/GothamProMedium.svg#gothampromedium") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Bold";
+    src: url("../../fonts/HelveticaNeueBold.eot");
+    src: url("../../fonts/HelveticaNeueBold.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/HelveticaNeueBold.woff") format("woff"),
+    url("../../fonts/HelveticaNeueBold.ttf") format("truetype"),
+    url("../../fonts/HelveticaNeueBold.svg#helveticaneue") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Regular";
+    src: url("../../fonts/HelveticaNeueRegular.eot");
+    src: url("../../fonts/HelveticaNeueRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/HelveticaNeueRegular.woff") format("woff"),
+         url("../../fonts/HelveticaNeueRegular.ttf") format("truetype"),
+         url("../../fonts/HelveticaNeueRegular.svg#helveticaneue") format("svg");
+}
+
+@font-face {
+    font-family: "Lato Bold";
+    src: url("../../fonts/LatoBold.eot");
+    src: url("../../fonts/LatoBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/LatoBold.woff") format("woff"),
+         url("../../fonts/LatoBold.ttf") format("truetype"),
+         url("../../fonts/LatoBold.svg#latobold") format("svg");
+}
+
+@font-face {
+    font-family: "Lato Regular";
+    src: url("../../fonts/LatoRegular.eot");
+    src: url("../../fonts/LatoRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/LatoRegular.woff") format("woff"),
+         url("../../fonts/LatoRegular.ttf") format("truetype"),
+         url("../../fonts/LatoRegular.svg#latoregular") format("svg");
+}
+
+@font-face {
+    font-family: "Mohave Bold";
+    src: url("../../fonts/MohaveBold.eot");
+    src: url("../../fonts/MohaveBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/MohaveBold.woff") format("woff"),
+         url("../../fonts/MohaveBold.ttf") format("truetype"),
+         url("../../fonts/MohaveBold.svg#mohavebold") format("svg");
+}
+
+@font-face {
+    font-family: "Mohave Regular";
+    src: url("../../fonts/Mohave.eot");
+    src: url("../../fonts/Mohave.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/Mohave.woff") format("woff"),
+    url("../../fonts/Mohave.ttf") format("truetype"),
+    url("../../fonts/Mohave.svg#mohaveregular") format("svg");
+}
+
+@font-face {
+    font-family: "Noto Serif Bold";
+    src: url("../../fonts/NotoSerifBold.eot");
+    src: url("../../fonts/NotoSerifBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/NotoSerifBold.woff") format("woff"),
+         url("../../fonts/NotoSerifBold.ttf") format("truetype"),
+         url("../../fonts/NotoSerifBold.svg#notoserifbold") format("svg");
+}
+
+@font-face {
+    font-family: "Noto Serif Italic";
+    src: url("../../fonts/NotoSerifItalic.eot");
+    src: url("../../fonts/NotoSerifItalic.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/NotoSerifItalic.woff") format("woff"),
+         url("../../fonts/NotoSerifItalic.ttf") format("truetype"),
+         url("../../fonts/NotoSerifItalic.svg#notoserifitalic") format("svg");
+}
+
+@font-face {
+    font-family: "PF Din Text Universal Regular";
+    src: url("../../fonts/PFDinTextUniversalRegular.eot");
+    src: url("../../fonts/PFDinTextUniversalRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/PFDinTextUniversalRegular.woff") format("woff"),
+         url("../../fonts/PFDinTextUniversalRegular.ttf") format("truetype"),
+         url("../../fonts/PFDinTextUniversalRegular.svg#PFDinTextUniversalRegular") format("svg");
+}
+
+@font-face {
+    font-family: "Pixel Cyr Normal";
+    src: url("../../fonts/PixelCyrNormal.eot");
+    src: url("../../fonts/PixelCyrNormal.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/PixelCyrNormal.woff") format("woff"),
+         url("../../fonts/PixelCyrNormal.ttf") format("truetype"),
+         url("../../fonts/PixelCyrNormal.svg#pixelcyrnormal") format("svg");
+}
+
+/*@font-face {*/
+    /*font-family: "PNCB";*/
+    /*src: url("../../fonts/pncb.eot");*/
+    /*src: url("../../fonts/pncb.eot?#iefix") format("embedded-opentype"),*/
+         /*url("../../fonts/pncb.woff") format("woff"),*/
+         /*url("../../fonts/pncb.ttf") format("truetype");*/
+/*}*/
+
+@font-face {
+    font-family: "Proxima Nova Bold";
+    src: url("../../fonts/ProximaNovaBold.eot");
+    src: url("../../fonts/ProximaNovaBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/ProximaNovaBold.woff") format("woff"),
+         url("../../fonts/ProximaNovaBold.ttf") format("truetype"),
+         url("../../fonts/ProximaNovaBold.svg#proximanovabold") format("svg");
+}
+
+@font-face {
+    font-family: "Proxima Nova Condensed Bold";
+    src: url("../../fonts/ProximaNovaCondensedBold.eot");
+    src: url("../../fonts/ProximaNovaCondensedBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/ProximaNovaCondensedBold.woff") format("woff"),
+         url("../../fonts/ProximaNovaCondensedBold.ttf") format("truetype"),
+         url("../../fonts/ProximaNovaCondensedBold.svg#proximanovacondensedbold") format("svg");
+}
+
+@font-face {
+    font-family: "Proxima Nova Condensed Regular";
+    src: url("../../fonts/ProximaNovaCondensedRegular.eot");
+    src: url("../../fonts/ProximaNovaCondensedRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/ProximaNovaCondensedRegular.woff") format("woff"),
+         url("../../fonts/ProximaNovaCondensedRegular.ttf") format("truetype"),
+         url("../../fonts/ProximaNovaCondensedRegular.svg#proximanovacondensedregular") format("svg");
+}
+
+@font-face {
+    font-family: "Proxima Nova Regular";
+    src: url("../../fonts/ProximaNovaRegular.eot");
+    src: url("../../fonts/ProximaNovaRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/ProximaNovaRegular.woff") format("woff"),
+         url("../../fonts/ProximaNovaRegular.ttf") format("truetype"),
+         url("../../fonts/ProximaNovaRegular.svg#proximanovaregular") format("svg");
+}
+
+@font-face {
+    font-family: "PT Sans Bold";
+    src: url("../../fonts/PTSansBold.eot");
+    src: url("../../fonts/PTSansBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/PTSansBold.woff") format("woff"),
+         url("../../fonts/PTSansBold.ttf") format("truetype"),
+         url("../../fonts/PTSansBold.svg#pt_sansbold") format("svg");
+}
+
+@font-face {
+    font-family: "PT Sans Demi";
+    src: url("../../fonts/PTSansProDemi.eot");
+    src: url("../../fonts/PTSansProDemi.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/PTSansProDemi.woff") format("woff"),
+         url("../../fonts/PTSansProDemi.ttf") format("truetype"),
+         url("../../fonts/PTSansProDemi.svg#PTSansProDemi") format("svg");
+}
+
+@font-face {
+    font-family: "PT Sans Regular";
+    src: url("../../fonts/PTSansRegular.eot");
+    src: url("../../fonts/PTSansRegular.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/PTSansRegular.woff") format("woff"),
+         url("../../fonts/PTSansRegular.ttf") format("truetype"),
+         url("../../fonts/PTSansRegular.svg#ptsansregular") format("svg");
+}
+
+@font-face {
+    font-family: "Signika Bold";
+    src: url("../../fonts/SignikaBold.eot");
+    src: url("../../fonts/SignikaBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/SignikaBold.woff") format("woff"),
+         url("../../fonts/SignikaBold.ttf") format("truetype"),
+         url("../../fonts/SignikaBold.svg#signikabold") format("svg");
+}
+
+@font-face {
+    font-family: "Superclarendon Bold";
+    src: url("../../fonts/SuperclarendonBold.eot");
+    src: url("../../fonts/SuperclarendonBold.eot?#iefix") format("embedded-opentype"),
+         url("../../fonts/SuperclarendonBold.woff") format("woff"),
+         url("../../fonts/SuperclarendonBold.ttf") format("truetype"),
+         url("../../fonts/SuperclarendonBold.svg#SuperclarendonBold") format("svg");
+}
+
+
+.example-enter {
+   opacity: 0;
+}
+
+.example-enter.example-enter-active {
+   opacity: 1;
+   transition: opacity 500ms ease-in;
+}
+
+.example-leave {
+   opacity: 1;
+}
+
+.example-leave.example-leave-active {
+   opacity: 0;
+   transition: opacity 500ms ease-in;
+}

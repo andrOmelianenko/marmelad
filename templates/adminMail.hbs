@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <h2>{{name}}</h2>
+    <hr/>
+    <h3>{{email}}</h3>
+    {{#if additional }}
+        <p>{{additional}}</p>
+    {{/if}}
+    <h3>Budget:
+        {{#if budget }}
+            {{budget}} $
+        {{else}}
+            --
+        {{/if}}
+    </h3>
+</html>

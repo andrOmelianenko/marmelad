@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -12 103 90">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <title>Asset 9</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <rect class="cls-1" x="0.5" y="38.06" width="33.47" height="18.62"/>
+            <polyline class="cls-1" points="33.97 19.12 33.97 0.5 67.44 0.5 67.44 19.12"/>
+            <polyline class="cls-1"
+                      points="84.17 37.95 84.17 19.33 50.7 19.33 50.7 37.95 50.7 19.33 17.23 19.33 17.23 37.95"/>
+            <polyline class="cls-1"
+                      points="33.97 56.68 67.44 56.68 67.44 38.06 33.97 38.06 100.47 38.06 100.47 56.68 67 56.68"/>
+            <path class="cls-1" d="M34,38.06"/>
+        </g>
+    </g>
+</svg>
